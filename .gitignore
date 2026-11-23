@@ -1,0 +1,13 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+Data/ChatLog.json
+Data/*.jpg
+Data/*.mp3
+Data/*.txt
+.vscode/settings.local.json
+.DS_Store
